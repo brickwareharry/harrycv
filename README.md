@@ -7,6 +7,8 @@ However, the GitHub page cannot display the special characters and formats of th
 # TODO:
 I will look for other simple and quick way to display a document on a GitHub page. It may be Markdown, Jekyll, MkDocs, Docusaurus or Pandoc.
 1. Pandoc.
-    - Pandoc converts Micorsoft Word file (*.docx) into Markdown file (*.md)
-    - Markdown file can be displayed on github page.
+    - Pandoc can convert Micorsoft Word file (*.docx) into Markdown file (*.md)
+    - Details of Pandoc can be found at https://pandoc.org/
+    - Markdown file can be displayed on GitHub page.
+    - I am going to use Pandoc to comvert my CV in docx format into either Markdown or html in order to display it on the GitHub page
 2. Will see: Markdown, Jekyll, MkDocs, Docusaurus
