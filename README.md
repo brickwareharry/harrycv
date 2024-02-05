@@ -5,3 +5,4 @@ I am looking for a simple and quick way to display a document on a GitHub page. 
 # Problem:
 However, the GitHub page cannot display the special characters and formats of the Word file, see https://brickwareharry.github.io/harrycv/
 # TODO:
+I will look for other simple and quick way to display a document on a GitHub page. It may be Markdown, Jekyll, MkDocs or Docusaurus.
